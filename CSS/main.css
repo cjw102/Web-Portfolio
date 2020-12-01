@@ -3,3 +3,19 @@
 	padding-top: 25%;
 	padding-bottom: 25%;
 }
+
+
+.navbar
+{
+	padding:0;
+}
+
+.nav-item
+{
+	padding:.3%;
+}
+
+.nav-item:hover
+{
+	background-color: #343a40;
+}
